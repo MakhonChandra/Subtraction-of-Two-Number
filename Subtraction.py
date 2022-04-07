@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 @author: Makhon Chandra
-
 """
 
 num1 = int(input("Enter First Number: "))
